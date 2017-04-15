@@ -1,47 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-
     <Stable>
-
-        <wt88047>
-
-            <Filename>RR-N-v5.8.2-20170413-a6000-Nightly.zip</Filename>
-
+        <tomato>
+            <Filename>RR-N-v5.8.3-20170414-tomato-Weekly.zip</Filename>
             <RomUrl
-
                 id="rom"
-
                 title="Rom"
-
                 description="Download the latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=457095661767153550</RomUrl>
-
             <ChangelogUrl
-
                 id="changelog"
-
                 title="Changelog"
-
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-
             <SlimGappsUrl
-
             	id="gapps"
-
             	title="Gapps"
-
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-
             <XDAUrl
-
                 id="xda"
-
                 title="XDA"
-
-                description="Visit the ResurrectionRemix thread of Redmi 2">https://forum.xda-developers.com/lenovo-a6000/development/rom-resurrectionremix-5-8-1-t3555184</XDAUrl>
-
-        </wt88047>
-
+                description="Visit the ResurrectionRemix thread of 
+tomato(Yureka/+)">http://forums.yuplaygod.com/threads/volte-10-04-rom-oms-vulkan-7-1-1_r25-unofficial-resurrectionremix_n_5-8-2-yureka.45631/unread</XDAUrl>
+        </tomato>
     </Stable>
-
 </SlimOTA>
