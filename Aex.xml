@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus3>
+            <Filename>AospExtended-v4.0-oneplus3-20170408-0917-OFFICIAL_WEEKLY_BETA.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest Aex Weekly Betas
+build">https://www.androidfilehost.com/?fid=673368273298945849</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/Aospextended/android_vendor_aosp/blob/7.x/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Aex thread of 
+OnePlus3/3T (oneplus3)">https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-aospextended-rom-v3-1-t3557363</XDAUrl>
+        </oneplus3>
+    </Stable>
+</SlimOTA>
