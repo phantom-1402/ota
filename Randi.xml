@@ -2,12 +2,12 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tomato>
-            <Filename>RR-N-v5.8.3-20170416-tomato-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170419-tomato-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
                 description="Download the latest ResurrectionRemix 
-build">https://www.androidfilehost.com/?fid=745425885120724551</RomUrl>
+build">https://www.androidfilehost.com/?fid=457095661767154917</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
